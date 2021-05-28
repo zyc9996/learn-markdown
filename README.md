@@ -6,7 +6,7 @@
 
 This is a __bold__ _italic_ test sample.
 
-this is a [hyperlink](https://www.sina.com.cn)
+this is a [hyperlink](More.md)
 
 >习近平总书记表示，西柏坡我来过多次，每次都怀着崇敬之心来，带着许多思考走。总书记深刻指出，在中国革命即将取得全国胜利之际，毛泽东同志在党的七届二中全会上向全党郑重提出“两个务必”，是经过了深入思考的。“包含着对我们党坚持全心全意为人民服务根本宗旨的深刻认识，思想意义和历史意义十分深远。”
 > 
